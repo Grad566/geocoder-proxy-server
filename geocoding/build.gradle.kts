@@ -57,6 +57,10 @@ dependencies {
 	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")
 	implementation("org.springdoc:springdoc-openapi-starter-webmvc-api:2.6.0")
 	implementation("org.springdoc:springdoc-openapi-starter-webflux-api:2.6.0")
+
+	implementation("com.konghq:unirest-modules-jackson")
+	implementation(platform("com.konghq:unirest-java-bom:4.3.0"))
+	implementation("com.konghq:unirest-java-core")
 }
 
 tasks.withType<Test> {

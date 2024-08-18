@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: geocoding
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    open-in-view: false
+    output:
+      ansi:
+        enabled: always
+    hibernate:
+      ddl-auto: update
+    profiles:
+      active: development
+
+yandex:
+  geocode:
+    api:
+      url: https://geocode-maps.yandex.ru/1.x/
+      key: a495abb5-12d3-42df-b106-847c1331f76b

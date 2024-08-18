@@ -1,4 +1,4 @@
-package com.geo.geocoding.congig;
+package com.geo.geocoding.config;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import org.springframework.boot.jackson.JsonComponentModule;
