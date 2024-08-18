@@ -1,4 +1,4 @@
-## Тестовое задание от Effective Mobile
+## Тестовое задание от Waliot
 
 [![My test](https://github.com/Grad566/geodocer-proxy-server/actions/workflows/myTest.yml/badge.svg)](https://github.com/Grad566/geodocer-proxy-server/actions/workflows/myTest.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f218e7cd00bb377b8821/maintainability)](https://codeclimate.com/github/Grad566/geodocer-proxy-server/maintainability)
